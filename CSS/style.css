@@ -1,0 +1,21 @@
+.contenedor {
+      max-width: 50%;
+      margin: 0 auto;
+      background-color: papayawhip;
+      height: 60px;
+      
+}
+ #identified {
+      text-align:center;
+      font-family:  'Philosopher', sans-serif;
+
+}
+
+h2.under {
+      text-decoration: underline;
+  }
+
+  
+
+      
+   
